@@ -28,7 +28,7 @@ $ sudo pip3 install -r requirements.txt
 
 Go on to run the command:
 ```
-$ python noclist.py
+$ python3 noclist.py
 ```
 
 **Congratulations. If you do not get an error, everything works fine and you are done with the server side setup.**

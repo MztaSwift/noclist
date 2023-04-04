@@ -119,9 +119,6 @@ To get the token, the first thing your application should do is call `/auth`.
 This endpoint will return a token you can use to generate the checksum for the
 subsequent user list call.
 
-If you have any questions about authenticating, please [log into the
-#public channel](https://public-slack.adhoc.team/) in our slack and ask!
-
 ### Checksum
 
 To request the user list, you will need to provide a checksum in the

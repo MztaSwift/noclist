@@ -28,7 +28,7 @@ $ sudo pip3 install -r requirements.txt
 
 Go on to run the command:
 ```
-$ python noclist.py
+$ python3 noclist.py
 ```
 
 To run the tests, run the command:

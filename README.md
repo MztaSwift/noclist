@@ -31,6 +31,11 @@ Go on to run the command:
 $ python noclist.py
 ```
 
+To run the tests, run the command:
+```
+$ python -m unittest test.py
+```
+
 **Congratulations. If you do not get an error, everything works fine and you are done with the server side setup.**
 **Go ahead and create a new branch and start developing**
 

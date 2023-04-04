@@ -1,7 +1,7 @@
 
 ## Installing Dependencies
 
-This project uses virtualenv to manage dependencies. 
+This project was written in Python and uses virtualenv to manage dependencies. 
 
 If virtualenv is not installed, you can run from the root directory of the project:
 ```bash
